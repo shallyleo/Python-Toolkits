@@ -5,7 +5,7 @@ This script defines a function _isValidEmail_ that takes an email address as inp
 You can modify the regular expression pattern to make it more or less strict based on your requirements.
 
 ## The Regex
-The regular expression pattern = r'^[\w\.-]+@[\w\.-]+\.\w+' is used to match email addresses in Python. Here's a breakdown of the different parts of the regular expression:
+The regular expression _pattern = r'^[\w\.-]+@[\w\.-]+\.\w+'_ is used to match email addresses in Python. Here's a breakdown of the different parts of the regular expression:
 
    #### ^: Matches the start of a string.
    #### [\w\.-]+: Matches one or more word characters (letters, digits, or underscores), dots, or hyphens.
