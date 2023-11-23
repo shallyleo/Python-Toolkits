@@ -33,5 +33,5 @@ This code is licensed under the MIT License. This means that you are free to use
 
 ## Contact
 
-If you have any questions or feedback, please feel free to contact me at [email protected]
+If you have any questions or feedback, please feel free to contact me at kayveengee@gmail.com
 
