@@ -16,7 +16,7 @@ while i >= 1:
   reversedString+=(stringInp[i-1])
   i -=1
 print("The reverse is: " + reversedString.lower())
-
+```
 
 ## Example
 
