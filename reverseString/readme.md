@@ -1,4 +1,3 @@
-```markdown
 # Reverse a String
 
 This program takes a string as input and prints its reverse.
